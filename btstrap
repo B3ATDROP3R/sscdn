@@ -11,44 +11,45 @@
 <script src="https://cdn.jsdelivr.net/gh/B3ATDROP3R/sscdn@master/jas.js"></script>
 <header class="header">
 <div>
-<button type="button" onclick="window.location.href = 'gs';" class="btn btn-default"style=" margin-left: 12px;">Games</button>
-<button type="button" onclick="window.location.href = 'mu.html';" class="btn btn-default"style=" margin-left: 25px;">YouTube</button>
-<button type="button" onclick="window.location.href = 'mo.html';" class="btn btn-default"style=" margin-left: 25px;">Movies/TV</button>
-<button type="button" onclick="window.location.href = 'c.html';" class="btn btn-default"style=" margin-left: 25px;">Chatbox</button>
-<button type="button" onclick="window.location.href = 'm.html';" class="btn btn-default"style=" margin-left: 25px;">Memes</button>
-<button type="button" onclick="window.location.href = 'p.html';" class="btn btn-default"style=" margin-left: 25px;">🆄🅽🅱🅻🅾🅲🅺🅴🆁</button>
+<button type="button" onclick=" " class="btn btn-default"style=" margin-left: 12px;">Games</button>
+<button type="button" onclick=" " class="btn btn-default"style=" margin-left: 25px;">YouTube</button>
+<button type="button" onclick=" " class="btn btn-default"style=" margin-left: 25px;">Movies/TV</button>
+<button type="button" onclick=" " class="btn btn-default"style=" margin-left: 25px;">Chatbox</button>
+<button type="button" onclick=" " class="btn btn-default"style=" margin-left: 25px;">Memes</button>
+<button type="button" onclick=" " class="btn btn-default"style=" margin-left: 25px;">🆄🅽🅱🅻🅾🅲🅺🅴🆁</button>
 <button id="play" onclick="play()"type="button"class="btn btn-default"style="float: right;">▶</button>
 </div>
 </header>
 <div class="header-text">
 <h1 id="center">Welcome to B3AT's experimental bokmarklet site</h1>
+<h1 id="center">dead = incompatable with ths version</h1>
 </div>
 <div class="content-area">
 <div class="container">
 <div class="row">
 <div id="dowen" class="col-sm-2">
-<h3 onclick="window.location.href = 'gs';" class="dropbtn">Games</h3>
+<h3 onclick="document.open(),jQuery.get('https://cdn.jsdelivr.net/gh/B3ATDROP3R/sscdn@master/g1',function(data){document.write(data)})" class="dropbtn">Games</h3>
 </div>
 <div id="dowen" class="col-sm-2">
-<h3 onclick="window.location.href = 'mu.html';"class="text">YouTube</h3>
+<h3 onclick=" "class="text">YouTube(dead)</h3>
 </div>
 <div id="dowen" class="col-sm-2">
-<h3 onclick="window.location.href = 'cb.html';"class="text">Chatbox</h3>
+<h3 onclick=" "class="text">Chatbox(dead)</h3>
 </div>
 <div id="dowen" class="col-sm-2">
-<h3 onclick="window.location.href = 'm.html';" class="text">Memes</h3>
+<h3 onclick=" " class="text">Memes</h3>
 </div>
 <div id="dowen" class="col-sm-2">
-<h3 onclick="window.location.href = 'mo.html';"class="text">Theater</h3>
+<h3 onclick=" "class="text">Theater</h3>
 </div>
 <div id="dowen" class="col-sm-2">
-<h3 onclick="window.location.href = 'p.html';"class="text">P𝗋𝗈𝗑𝗒</h3>
+<h3 onclick=" "class="text">P𝗋𝗈𝗑𝗒(dead)</h3>
 </div>
 <div id="dowen" class="col-sm-2">
-<h3 class="text"onclick="window.location.href = 'server.php';">Twitch</h3>
+<h3 class="text"onclick=" ">Twitch(dead)</h3>
 </div>
 <div id="dowen" class="col-sm-2">
-<h3 onclick="window.location.href = 'rd.html';"class="text">Reddit</h3>
+<h3 onclick=" "class="text">Reddit(dead)</h3>
 </div>
 </div>
 </div>
