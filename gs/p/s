@@ -1,0 +1,4 @@
+<h1 style="color:white;">please select a game!</h1>
+<h1 style="color:white;">Attention! Flash games soon will be no longer supported by chrome</h1>
+<h1 style="color:white;">In order to play most games here you MUST click the lock at the top-->site settings--> find flash and change from blocked to allowed.</h1>
+<a href="javascript:void();" onclick="window.open('https://www.digitalinformationworld.com/2019/03/chrome-notify-end-of-flash-player.html', 'NewButtonWindowName','width=1000,height=800,scrollbars=yes')">Learn More</a>
