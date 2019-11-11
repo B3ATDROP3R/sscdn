@@ -28,7 +28,7 @@
 <div class="container">
 <div class="row">
 <div id="dowen" class="col-sm-2">
-<h3 onclick="document.open(),jQuery.get('https://cdn.jsdelivr.net/gh/B3ATDROP3R/sscdn@master/g1',function(data){document.write(data)})" class="dropbtn">Games</h3>
+<h3 onclick="jQuery.get('https://cdn.jsdelivr.net/gh/B3ATDROP3R/sscdn@master/g1',function(data){document.body.innerHTML = data})" class="dropbtn">Games</h3>
 </div>
 <div id="dowen" class="col-sm-2">
 <h3 onclick=" "class="text">YouTube(dead)</h3>
