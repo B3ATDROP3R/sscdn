@@ -1,3 +1,10 @@
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"></link>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/B3ATDROP3R/sscdn@master/jcss/css.css"></link>
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/B3ATDROP3R/sscdn@master/az.js"></script>
+</head>
+<body class="body">
 <script src="https://cdn.jsdelivr.net/gh/B3ATDROP3R/sscdn@master/js.js"></script>
 <header class="header">
 <div>
@@ -99,4 +106,6 @@
         <li><a onClick="document.getElementById('MyFrame').src='https://cdn.jsdelivr.net/gh/B3ATDROP3R/sscdn@master/gs/achievementunlocked2.html';">achievement unlocked 2</a></li>
         <li><a onClick="document.getElementById('MyFrame').src='https://cdn.jsdelivr.net/gh/B3ATDROP3R/sscdn@master/gs/achievementunlocked3.html';">achievement unlocked 3</a></li>
         <li><a onClick="document.getElementById('MyFrame').src='https://cdn.jsdelivr.net/gh/B3ATDROP3R/sscdn@master/gs/1-on-1-soccer.html';">1 on 1 soccer</a></li>
-
+          </ul>
+</body>
+</html>
