@@ -6,6 +6,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/B3ATDROP3R/sscdn@master/css.css">
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/B3ATDROP3R/sscdn@master/az.js"></script>
 </head>
 <body class="body">
 <script src="https://cdn.jsdelivr.net/gh/B3ATDROP3R/sscdn@master/jas.js"></script>
