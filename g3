@@ -12,7 +12,7 @@
   <button type="button" onclick="window.location.href = '../m.html';" class="btn btn-default"style=" margin-left: 25px;">Memes</button>
 </div>
 </header>
-<iframe id="MyFrame" width="81%" height="614" class="iframe" src="https://cdn.jsdelivr.net/gh/B3ATDROP3R/sscdn@master/gs/p/s.html"></iframe>
+<embed id="MyFrame" width="81%" height="614" class="iframe" src="https://cdn.jsdelivr.net/gh/B3ATDROP3R/sscdn@master/gs/p/s.html"></embed>
 <input type="text" id="myInput" onkeyup="search()" placeholder="Search for Games..">
 <ul id="myUL">
         <!-- flash games begin here.. listing in their own section because flash will soon not be supported-->
