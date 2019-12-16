@@ -12,11 +12,11 @@
   <button type="button" onclick="window.location.href = '../m.html';" class="btn btn-default"style=" margin-left: 25px;">Memes</button>
 </div>
 </header>
-<embed id="MyFrame" width="81%" height="614" class="iframe" src="https://cdn.jsdelivr.net/gh/B3ATDROP3R/sscdn@master/gs/p/s.html"></embed>
+<div id="pleaseworkomg"></div>
 <input type="text" id="myInput" onkeyup="search()" placeholder="Search for Games..">
 <ul id="myUL">
         <!-- flash games begin here.. listing in their own section because flash will soon not be supported-->
-        <li><a onClick="document.getElementById('MyFrame').src='https://cdn.jsdelivr.net/gh/B3ATDROP3R/sscdn@master/gs/thebindingofisaac.html';">TheBindingofIsaac</a></li>
+        <li><a onClick="jQuery.get('https://cdn.jsdelivr.net/gh/B3ATDROP3R/sscdn@master/gs/thebindingofisaac.html',function(data){document.getElementById('pleaseworkomg').innerHTML = data; });">TheBindingofIsaac</a></li>
         <li><a onClick="document.getElementById('MyFrame').src='https://cdn.jsdelivr.net/gh/B3ATDROP3R/sscdn@master/gs/tanktrouble.html';">tank trouble</a></li>
         <li><a onClick="document.getElementById('MyFrame').src='https://cdn.jsdelivr.net/gh/B3ATDROP3R/sscdn@master/gs/tacticalassassin.html';">tactical assassin</a></li>
         <li><a onClick="document.getElementById('MyFrame').src='https://cdn.jsdelivr.net/gh/B3ATDROP3R/sscdn@master/gs/supermario63.html';">SuperMatio63</a></li>
